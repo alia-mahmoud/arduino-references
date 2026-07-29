@@ -1,7 +1,5 @@
 # arduino-references
 
-personal library of reusable arduino examples, templates, and circuit documentation. 
-
 this repository serves as a reference for common hardware interfaces, communication protocols, sensors, actuators, and programming techniques.
 
 each example includes well commented code, circuit/breadboard/wiring diagrams, and additional notes.
