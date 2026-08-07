@@ -19,10 +19,5 @@ topics start out simple and generally increase in complexity.
 
 1. Digital I/O - introduction to breadboard anatomy and basic I/O interface in arduino and cpp
 - Blink one LED
-- Blink two LEDs
-- Blink three LEDs with a loop
 - Push button turns on LED
-- Push button toggles LED
-- Traffic light
-- Reaction timer game
 
